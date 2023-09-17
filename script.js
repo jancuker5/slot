@@ -1,4 +1,4 @@
-const symbols = ["SAHAR", "ASU", "KONTOL", "BILANG", "TAI", "ANAK", "ENAK"];
+const symbols = ["SAHAR", "ASU", "KONTOL", "LOVE", "TAI", "ANAK", "ENAK", "IMUT"];
 const reel1 = document.getElementById("reel1");
 const reel2 = document.getElementById("reel2");
 const reel3 = document.getElementById("reel3");
